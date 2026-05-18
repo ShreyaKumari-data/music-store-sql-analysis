@@ -16,11 +16,17 @@ Firstly checked for all the table columns and identified primary keys and foreig
 - Rock Genre generates highest revenue followed by Latin.
 - Drama, Classical, R&B/Soul genres are least selling.
 - Other than music customers are also interested in TV shows, maybe they like to binge watch. 
+
 ![Genre Revenue](result1.png)
+
 - Customers add classical tracks to the playlist and don't buy them separately that's why it's revenue is less but it is included in most of the playlist.
+
 ![Playlist Analysis](result2.png)
+
 ![Genre Analysis](result2_2.png)
+
 - Across 412 total transactions, three sales agents show similar but distinct performance patterns. The transaction counts and revenue are really close but Jane peacock leads it  but when we calculated revenue per transaction we found that steve has the highest revenue per transaction despite the lowest transaction count.
+
 ![Sales Agent Performance](result3.png)
 
 ### Recommendation
