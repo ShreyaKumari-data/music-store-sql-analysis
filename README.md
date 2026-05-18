@@ -13,7 +13,7 @@ Tables: album, artist, customer, employee, genre, invoice, invoiceline, mediatyp
 Firstly checked for all the table columns and identified primary keys and foreign keys in each table then joined the tables accpording to the business question to get the desired result.
 
 ### Key Findings
-- Rock Genre generates highest revenue followed by Latin, so 
+- Rock Genre generates highest revenue followed by Latin.
 - Drama, Classical, R&B/Soul genres are least selling.
 - Other than music customers are also interested in TV shows, maybe they like to binge watch. 
 - Customers add classical tracks to the playlist and don't buy them separately that's why it's revenue is less but it is included in most of the playlist.
